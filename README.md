@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x11. C - printf  
 Collaborative work of Med & Ali.  
 **Requirements**  
@@ -14,3 +15,7 @@ Collaborative work of Med & Ali.
 -Don’t forget to push your header file.  
 -All your header files should be include guarded.  
 -Note that we will not provide the _putchar function for this project.  
+=======
+0x11. C - printf
+Collaborative work of Meo & Ali.
+>>>>>>> parent of 06d6853... Improved README.md
